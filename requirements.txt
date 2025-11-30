@@ -1,0 +1,6 @@
+ultralytics==8.3.68
+opencv-python==4.12.0.88
+numpy==2.2.1
+onnxruntime==1.19.2
+PyQt6==6.7.1
+pywin32==306
